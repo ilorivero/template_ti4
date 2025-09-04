@@ -54,6 +54,8 @@ Toda a documentação de planejamento, design, equipe e arquitetura pode ser enc
 * [**02 - Equipe e Divisão de Tarefas**](./documentation/02_EQUIPE_E_TAREFAS.md)
 * [**03 - Design (UI/UX)**](./documentation/03_DESIGN_UI_UX.md)
 * [**04 - Banco de Dados**](./documentation/04_BANCO_DE_DADOS.md)
+* [**05 - Utilização de Inteligência Artificial**](./documentation/05_Utilizacao_IA.md)
+* [**06 - Utilização de Grafos (Opcional)**](./documentation/06_Utilizacao_Grafos_Opcional.md)
 
 ## 🏗️ Estrutura do Código
 
